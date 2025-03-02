@@ -14,12 +14,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Development environment documentation in English and Chinese
 - Project README in English and Chinese
 
-## [0.1.0] - YYYY-MM-DD
+## [0.1.0] - 2025-03-01
 
 ### Added
 - Project structure and foundation
 - Basic documentation
 - Development environment setup guides
-
-[Unreleased]: https://github.com/yongliucc/yongblog/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/yongliucc/yongblog/releases/tag/v0.1.0 
